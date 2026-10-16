@@ -4,3 +4,4 @@
 - Cambio estructural del dataset.
 - Se agrega columna categoria.
 - Versión no compatible con v1.x.
+- Adicionamos un nuevo renglon para Tablet
